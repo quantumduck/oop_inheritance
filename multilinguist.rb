@@ -52,4 +52,3 @@ class Multilinguist
     json_response['translationText']
   end
 end
-
